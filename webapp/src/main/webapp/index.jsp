@@ -13,7 +13,7 @@
     <br>
 
     <label for="MobileNumber"><b>MobileNumber</b></label>
-    <input type="string" placeholder="Enter Mobile number" name="mobile" id="mobile" required>
+    <input type="string" placeholder="Enter Mobile number:" name="mobile" id="mobile" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
